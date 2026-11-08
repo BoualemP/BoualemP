@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boualem Pereira</h1>
-<h3 align="center">Geophysicist turned Full-Stack Developer | 15+ years in Seismic Processing & O&G | Building modern web tools</h3>
+<h3 align="center">Geophysicist turned Full-Stack Developer | 15+ years in Seismic Processing & O&G | Building modern web tools and data-driven solutions</h3>
 
 - Founder @ GeoWeb Solutions **GeoWeb Solutions**
 
