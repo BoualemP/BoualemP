@@ -5,7 +5,7 @@
 
 - I can collaborate with your team to extract various valuable insights from the data. **Test project**
 
-- 👨‍💻 All of my projects are available at [Going live soon; currently undergoing updates/maintenance](Going live soon; currently undergoing updates/maintenance)
+- 👨‍💻 All of my projects are available at [Going live soon; currently undergoing updates/maintenance]
 
 - 📝 I regularly write articles on [Undergoing updates/maintenance](Undergoing updates/maintenance)
 
