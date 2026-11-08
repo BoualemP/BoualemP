@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Boualem Pereira</h1>
 <h3 align="center">Geophysicist turned Full-Stack Developer | 15+ years in Seismic Processing & O&G | Building modern web tools and data-driven solutions</h3>
 
-- Founder @ GeoWeb Solutions **GeoWeb Solutions**
-
 - I am focused on studying everything related to data, web development, software development, and advanced programming. **Python, javascript, HTML5, CSS, SQL Language, etc...**
 
 - I can collaborate with your team to extract various valuable insights from the data. **Test project**
