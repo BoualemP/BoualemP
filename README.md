@@ -16,6 +16,7 @@ Open to freelance projects and to joining teams working on data, machine learnin
 
 | Project | Focus | Highlight |
 |---|---|---|
+| [Vulemby (web app, demo)](https://github.com/BoualemP/vulemby) · [live demo](https://vulemby.vercel.app) | Next.js, TypeScript, Supabase (Postgres) | Registrations, QR tickets, invitation campaigns and phone check-in, with seat counts that stay correct under concurrent sign-ups |
 | [Facies Classifier (web app, beta)](https://github.com/BoualemP/facies-classifier-app) · [live demo](https://facies-classifier-app.onrender.com) | FastAPI, ONNX, JavaScript | Classifies the facies of a well from a CSV file, with an interactive log display and a public API |
 | [Well-Log Facies Classification](https://github.com/BoualemP/well-log-facies-classification) | Neural network (Keras), ONNX export, geoscience data | Nine facies predicted on two unseen wells: macro F1 0.446, against 0.399 for logistic regression |
 | [Equity Data Pipeline: Tesla and GameStop](https://github.com/BoualemP/equity-data-pipeline-tsla-gme) | APIs, web scraping, data validation | 398 revenue figures scraped from SEC filings, all matching the official structured data |
