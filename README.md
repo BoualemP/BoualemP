@@ -16,6 +16,7 @@ Open to freelance projects and to joining teams working on data, machine learnin
 
 | Project | Focus | Highlight |
 |---|---|---|
+| [European Airport Delays Dashboard (web app)](https://github.com/BoualemP/europe-airport-delays-dashboard) · [live demo](https://europe-airport-delays.onrender.com) | Dash, Plotly, Docker, Render | Interactive ATFM delay dashboard for 293 airports: Europe-wide trends, traffic-peer comparison, rankings and causes |
 | [Vulemby (web app, demo)](https://github.com/BoualemP/vulemby) · [live demo](https://vulemby.vercel.app) | Next.js, TypeScript, Supabase (Postgres) | Registrations, QR tickets, invitation campaigns and phone check-in, with seat counts that stay correct under concurrent sign-ups |
 | [Facies Classifier (web app, beta)](https://github.com/BoualemP/facies-classifier-app) · [live demo](https://facies-classifier-app.onrender.com) | FastAPI, ONNX, JavaScript | Classifies the facies of a well from a CSV file, with an interactive log display and a public API |
 | [European Airport Delays](https://github.com/BoualemP/europe-airport-delays-analysis) | EUROCONTROL open data, data cleaning, time series | Lisbon had the highest ATFM delay per arrival among 100+ airports with 20,000+ arrivals in 2023 and 2024; 6th of 109 in 2025 |
